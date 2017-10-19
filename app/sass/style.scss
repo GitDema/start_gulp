@@ -1,0 +1,12 @@
+@import 'helpers/_variables';
+@import 'helpers/_mixins';
+
+@import "base/_normalize";
+@import "base/_fonts";
+
+@import "layout/_header";
+@import "layout/_content";
+@import "layout/_footer";
+
+@import "layout/_media";
+body{background-color:lightgreen;}
